@@ -8,6 +8,8 @@ class loginCredentials:
     submit = (By.XPATH, "//input[@type='submit']")
     Checkboxs = (By.XPATH,"//input[@type='checkbox']")
 
+
+
     def __init__(self, driver):
         self.driver = driver
 
