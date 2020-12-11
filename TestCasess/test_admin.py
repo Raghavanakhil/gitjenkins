@@ -4,6 +4,7 @@ from POM.Login import loginCredentials
 from Utilities.BaseClass import Baseclass
 from POM.Categories import Subcategory
 import time
+import pytest_html
 
 
 class TestAdmin(Baseclass):
