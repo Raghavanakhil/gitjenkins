@@ -16,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../selenium new project/.idea/selenium new project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../selenium new project/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../seleniumInterview/.idea/seleniumInterview.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCasess/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCasess/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../parrleltesting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parrleltesting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../parrleltesting/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/../parrleltesting/Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../parrleltesting/Strings and examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/../parrleltesting/Strings and examples.py" afterDir="false" />
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCasess/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -201,7 +200,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.049099836" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.0883797" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -268,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCasess/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
