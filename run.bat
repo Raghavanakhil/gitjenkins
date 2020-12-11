@@ -1,1 +1,1 @@
-pytest -v -s 
+pytest -v -s --html = $WORKSPACE/report.html

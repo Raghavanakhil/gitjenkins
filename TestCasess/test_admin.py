@@ -24,10 +24,11 @@ class TestAdmin(Baseclass):
         subcate.Addnew().click()
         time.sleep(3)
         subcate.Swipe().click()
-
         self.driver.find_element_by_id("Name").send_keys('chelakuty')
         self.driver.find_element_by_name("save").click()
 
 @pytest.fixture(params=[("admin@yourstore.com","admin")])
 def getData(request):
     return  request.param
+
+
